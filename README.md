@@ -5,7 +5,7 @@
 Here are some informations about me:
 
 - 🔭 I’m currently working at ForLogic
-- 👨‍🎓 Software Engineering Student at UTFPR
+- 👨‍🎓 Software Engineering Student at [UTFPR](http://portal.utfpr.edu.br/english)
 - 📫 How to reach me: [Send me a email](mailto:gdcmarinho@gmail.com)
 - ⚡ Fun facts: I've thalassophobia and I know how to centralize with CSS without StackOverflow
 
